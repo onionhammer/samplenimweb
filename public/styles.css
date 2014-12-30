@@ -1,0 +1,29 @@
+body {
+    font-size: 16pt;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    padding: .5em 0em;
+    list-style-type: none;
+}
+
+ul a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 10pt;
+    color: #666;
+}
+
+ul li {
+    vertical-align: middle;
+}
+
+#warning {
+    padding: .5em 0em;
+    color: #AAA;
+}
